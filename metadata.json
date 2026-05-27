@@ -1,0 +1,6 @@
+{
+  "name": "Guardian",
+  "description": "High-end smart home security system dashboard with AI-powered insights, real-time camera monitoring, and interactive floor plans.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
